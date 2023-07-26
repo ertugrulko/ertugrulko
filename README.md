@@ -1,4 +1,4 @@
-Hi 👋, I'm Ertuğrul
+<h1>Hi 👋, I'm Ertuğrul</h1>
 Full Stack Web Developer
 - 🔭 I’m currently working on [Netflix-clone](-----)
 - 🌱 I’m currently learning **JS**
